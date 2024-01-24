@@ -1,0 +1,9 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = git@github.com:symbbad/hugo-PaperMod.git
+[submodule "public"]
+	path = public
+	url = git@github.com:symbbad/symbbad.github.io.git
+[submodule "content/post"]
+	path = content/post
+	url = git@github.com:symbbad/post.git
