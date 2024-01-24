@@ -67,7 +67,7 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableFingerprinting: true
     favicon: "/img/favicons/favicon.ico"
     favicon16x16: "/img/favicons/favicon-16x16.png"
     favicon32x32: "/img/favicons/favicon-32x32.png"
