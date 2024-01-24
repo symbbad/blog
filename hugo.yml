@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "symbbad"
+    Content: symmbad
 
   socialIcons:
     - name: twitter
